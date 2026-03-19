@@ -1,6 +1,7 @@
 # datasets
 
 ## conjuntos de dados para as aulas de estatisticas 
+
 ### 1. pessoas:
 
 variaveis:
@@ -12,4 +13,5 @@ variaveis:
  ```py
  import pandas as pd
  ```
- 
+
+[LICENÇA APACHE 2](LICENCE.txt)
